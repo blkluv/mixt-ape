@@ -1,5 +1,5 @@
 {
-  "name": "mixt-ape",
+  "name": "mixtape",
   "version": "0.1.0",
   "description": "Mixtapes for Solana.",
   "main": "index.js",
@@ -84,7 +84,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:h4rkl:mixt-ape.git"
+    "url": "git@github.com:blkluv:mixt-ape.git"
   },
   "license": "Apache-2.0"
 }
