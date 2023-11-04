@@ -6,7 +6,7 @@
   "private": true,
   "author": "@h4rkl",
   "engines": {
-    "node": "20.x"
+    "node": "18.x"
   },
   "scripts": {
     "dev": "cp .env.dev .env && next",
